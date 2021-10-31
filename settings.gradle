@@ -1,0 +1,2 @@
+rootProject.name = "Mind Reader"
+include ':app'
